@@ -1,0 +1,16 @@
+#unique{
+    color: blue;
+    font-size: 36px;
+}
+.odd{
+    color: white;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.font24{
+    font-size: 24px;
+}
+.four{
+    background-color: lightgreen;
+    font-weight: bold;
+}
